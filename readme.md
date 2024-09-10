@@ -1,1 +1,1 @@
-# 1234
+# Tworzymy pierwszy index.html
